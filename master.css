@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(153, 186, 246);
+}
+.One{
+    background-color: rgb(12, 29, 109);
+    color: azure;
+    direction: rtl;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    width: 500px;
+    border: 10px solid whitesmoke;
+ size: 50px;
+}
+.Two{
+    color: azure;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
